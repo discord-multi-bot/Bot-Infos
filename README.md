@@ -21,4 +21,4 @@
 
 ## Support
 Für Fragen oder Probleme:  
-**Discord:** [Dein Support-Server-Link hier einfügen]
+**Discord:** [Support Server (Hier Klicken)](https://discord.gg/Ef9xBHFt6p)
