@@ -46,4 +46,4 @@ Vielen Dank, dass du den **Server Defender Bot** nutzt. Durch das Hinzufügen un
 
 ## 7. Support & Kontakt
 Bei Fragen, Problemen oder Supportanfragen:  
-**Discord:** [Dein Support-Server-Link hier einfügen]  
+**Discord:** [Hier Klicken](https://discord.gg/Ef9xBHFt6p)
