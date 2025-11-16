@@ -12,7 +12,8 @@ Der Schutz deiner Daten ist uns wichtig. Diese Datenschutzerklärung erklärt, w
 - Server-ID  
 - Channel-IDs für Logging & Benachrichtigungen  
 - Rollen-IDs für Moderation und Sicherheitsfunktionen  
-- Bot-Konfigurationen pro Server  
+- Bot-Konfigurationen pro Server
+- Invite Link zum Server falls man in den Top 10 der größten Servern ist wo der Bot drauf ist
 
 ### 1.2 Moderationsbezogene Daten
 - IDs von Nutzern, die von Moderationsaktionen betroffen sind  
@@ -67,4 +68,4 @@ Der Schutz deiner Daten ist uns wichtig. Diese Datenschutzerklärung erklärt, w
 
 ## 8. Kontakt
 Für Datenschutzanfragen oder Löschanfragen:  
-**Discord:** [Dein Support-Server-Link hier einfügen]  
+**Discord:** [Hier Klicken](https://discord.gg/Ef9xBHFt6p)
