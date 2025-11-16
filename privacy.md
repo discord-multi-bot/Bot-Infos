@@ -1,73 +1,70 @@
 # Privacy Policy – Server Defender Bot
 
-_Last updated: {{DATE}}_
+_Last updated: 16.11.2025_
 
 Der Schutz deiner Daten ist uns wichtig. Diese Datenschutzerklärung erklärt, welche Daten der **Server Defender Bot** sammelt, speichert und verarbeitet.
 
 ---
 
-## 1. Welche Daten speichern wir?
-Der Bot speichert ausschließlich Daten, die für seinen Betrieb notwendig sind:
+## 1. Welche Daten werden gespeichert?
 
 ### 1.1 Serverbezogene Daten
-- Server‑ID  
-- Rollen‑IDs (z. B. für Schutzfunktionen)  
-- Channel‑IDs (für Logs)  
-- Einstellungen & Konfigurationen des Bots  
+- Server-ID  
+- Channel-IDs für Logging & Benachrichtigungen  
+- Rollen-IDs für Moderation und Sicherheitsfunktionen  
+- Bot-Konfigurationen pro Server  
 
 ### 1.2 Moderationsbezogene Daten
-- IDs von Nutzern, die durch Bot‑Automatisierungen betroffen sind  
-- Zeitstempel von Aktionen  
-- Moderationsgründe (falls konfiguriert)
+- IDs von Nutzern, die von Moderationsaktionen betroffen sind  
+- Zeitstempel der Aktionen  
+- Gründe für Moderation (optional, wenn aktiviert)
 
 ### 1.3 Temporäre Daten
-- Nutzerdaten zur Live‑Erkennung von Raid‑ oder Spam‑Verhalten  
-Diese werden **nicht dauerhaft gespeichert**, sondern nach kurzer Zeit automatisch gelöscht.
+- Daten zur Live-Erkennung von Spam, Raid oder Missbrauch  
+- Werden automatisch nach kurzer Zeit gelöscht  
 
 ---
 
-## 2. Welche Daten speichern wir NICHT?
-Der Bot speichert **keine**:
+## 2. Welche Daten werden **nicht** gespeichert?
 - Nachrichteninhalte  
 - Direktnachrichten  
-- Passwörter  
-- Bezahl‑ oder persönliche Informationen  
+- Passwörter oder persönliche Informationen  
+- Zahlungsinformationen  
 
 ---
 
-## 3. Warum speichern wir Daten?
-Die Speicherung dient folgenden Zwecken:
-- Schutz vor Raids und Spam  
+## 3. Zweck der Datenspeicherung
+- Schutz vor Raids, Spam und Missbrauch  
 - Automatische Moderation  
-- Bereitstellung von Log‑Daten für Server‑Admins  
-- Personalisierte Bot‑Konfiguration pro Server  
+- Bereitstellung von Logs und Statistiken für Server-Admins  
+- Anpassbare Konfigurationen für deinen Server  
 
 ---
 
-## 4. Weitergabe von Daten
-- Wir verkaufen oder teilen keine Daten mit Dritten.  
-- Zugriff auf Daten haben ausschließlich Bot‑Entwickler, falls für technischen Support notwendig.
+## 4. Datenweitergabe
+- Es erfolgt **keine Weitergabe** an Dritte.  
+- Zugriff auf gespeicherte Daten haben nur die Bot-Entwickler für technischen Support oder Fehlerbehebung.  
 
 ---
 
 ## 5. Datenlöschung
-- Server können jederzeit eine **komplette Datenlöschung** anfordern.  
-- Beim Entfernen des Bots vom Server können Daten ebenfalls auf Wunsch gelöscht werden.
+- Daten können jederzeit auf Anfrage gelöscht werden.  
+- Beim Entfernen des Bots werden auf Wunsch alle gespeicherten Daten gelöscht.  
 
 ---
 
-## 6. Sicherheit
-- Daten werden nur minimal und verschlüsselt gespeichert.  
-- Es werden alle erforderlichen technischen Maßnahmen getroffen, um Sicherheit zu gewährleisten.
+## 6. Datensicherheit
+- Gespeicherte Daten werden minimal und verschlüsselt gehalten.  
+- Sicherheitsmaßnahmen werden regelmäßig aktualisiert, um Daten zu schützen.  
 
 ---
 
 ## 7. Änderungen an dieser Policy
-- Diese Datenschutzerklärung kann jederzeit aktualisiert werden.  
-- Die fortgesetzte Nutzung gilt als Zustimmung zu den aktualisierten Bedingungen.
+- Die Datenschutzerklärung kann jederzeit aktualisiert werden.  
+- Fortgesetzte Nutzung gilt als Zustimmung zu den Änderungen.  
 
 ---
 
 ## 8. Kontakt
-Für Anliegen oder Löschanfragen:  
-**Discord:** (Support‑Server eintragen)
+Für Datenschutzanfragen oder Löschanfragen:  
+**Discord:** [Dein Support-Server-Link hier einfügen]  
