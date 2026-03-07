@@ -1,71 +1,138 @@
 # Privacy Policy – Server Defender Bot
 
-_Last updated: 16.11.2025_
+*Last updated: 07.03.2026*
 
-Der Schutz deiner Daten ist uns wichtig. Diese Datenschutzerklärung erklärt, welche Daten der **Server Defender Bot** sammelt, speichert und verarbeitet.
-
----
-
-## 1. Welche Daten werden gespeichert?
-
-### 1.1 Serverbezogene Daten
-- Server-ID  
-- Channel-IDs für Logging & Benachrichtigungen  
-- Rollen-IDs für Moderation und Sicherheitsfunktionen  
-- Bot-Konfigurationen pro Server
-- Invite Link zum Server falls man in den Top 10 der größten Servern ist wo der Bot drauf ist
-
-### 1.2 Moderationsbezogene Daten
-- IDs von Nutzern, die von Moderationsaktionen betroffen sind  
-- Zeitstempel der Aktionen  
-- Gründe für Moderation (optional, wenn aktiviert)
-
-### 1.3 Temporäre Daten
-- Daten zur Live-Erkennung von Spam, Raid oder Missbrauch  
-- Werden automatisch nach kurzer Zeit gelöscht  
+Der Schutz personenbezogener Daten ist uns wichtig. Diese Datenschutzerklärung erklärt, welche Daten der **Server Defender Bot** verarbeitet, zu welchem Zweck dies geschieht und welche Rechte Nutzer haben.
 
 ---
 
-## 2. Welche Daten werden **nicht** gespeichert?
-- Nachrichteninhalte  
-- Direktnachrichten  
-- Passwörter oder persönliche Informationen  
-- Zahlungsinformationen  
+# 1. Verantwortlicher
+
+Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO):
+
+Max  
+Kontakt über den offiziellen Support-Server:  
+https://discord.gg/Ef9xBHFt6p
 
 ---
 
-## 3. Zweck der Datenspeicherung
-- Schutz vor Raids, Spam und Missbrauch  
-- Automatische Moderation  
-- Bereitstellung von Logs und Statistiken für Server-Admins  
-- Anpassbare Konfigurationen für deinen Server  
+# 2. Datenquelle
+
+Der Bot verarbeitet ausschließlich Daten, die über die API von Discord Inc. bereitgestellt werden.
+
+Weitere Informationen zur Datenverarbeitung durch Discord sind in der Datenschutzerklärung von Discord verfügbar:  
+https://discord.com/privacy
 
 ---
 
-## 4. Datenweitergabe
-- Es erfolgt **keine Weitergabe** an Dritte.  
-- Zugriff auf gespeicherte Daten haben nur die Bot-Entwickler für technischen Support oder Fehlerbehebung.  
+# 3. Welche Daten verarbeitet werden
+
+## 3.1 Serverbezogene Daten
+
+- Server-ID
+- Channel-IDs für Logs oder Konfiguration
+- Rollen-IDs für Moderation oder Sicherheitsfunktionen
+- Serverbezogene Bot-Konfigurationen
+- Einladungslink zum Server, falls der Server zu den größten Servern gehört, auf denen der Bot installiert ist
+
+## 3.2 Moderationsbezogene Daten
+
+- Nutzer-ID von betroffenen Nutzern
+- Zeitstempel von Moderationsaktionen
+- Moderationsgrund (falls vom Administrator angegeben)
+
+## 3.3 Temporäre Sicherheitsdaten
+
+- Temporäre Daten zur Erkennung von Spam, Raid oder Missbrauch
+- Diese Daten werden automatisch nach kurzer Zeit gelöscht
 
 ---
 
-## 5. Datenlöschung
-- Daten können jederzeit auf Anfrage gelöscht werden.  
-- Beim Entfernen des Bots werden auf Wunsch alle gespeicherten Daten gelöscht.  
+# 4. Welche Daten **nicht** gespeichert werden
+
+Der Bot speichert **keine**:
+
+- Nachrichteninhalte
+- Direktnachrichten
+- E-Mail-Adressen
+- Passwörter
+- Zahlungsinformationen
+- personenbezogenen Profilinformationen
 
 ---
 
-## 6. Datensicherheit
-- Gespeicherte Daten werden minimal und verschlüsselt gehalten.  
-- Sicherheitsmaßnahmen werden regelmäßig aktualisiert, um Daten zu schützen.  
+# 5. Zweck der Verarbeitung
+
+Die Daten werden verarbeitet, um:
+
+- Schutz vor Spam, Raids und Missbrauch zu ermöglichen
+- automatische Moderationsfunktionen bereitzustellen
+- Serveradministratoren Moderationslogs bereitzustellen
+- serverbezogene Bot-Konfigurationen zu speichern
 
 ---
 
-## 7. Änderungen an dieser Policy
-- Die Datenschutzerklärung kann jederzeit aktualisiert werden.  
-- Fortgesetzte Nutzung gilt als Zustimmung zu den Änderungen.  
+# 6. Rechtsgrundlage der Verarbeitung
+
+Die Verarbeitung der Daten erfolgt auf Grundlage von  
+**Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse)**.
+
+Das berechtigte Interesse besteht darin, Moderations- und Sicherheitsfunktionen für Discord-Server bereitzustellen.
 
 ---
 
-## 8. Kontakt
-Für Datenschutzanfragen oder Löschanfragen:  
-**Discord:** [Hier Klicken](https://discord.gg/Ef9xBHFt6p)
+# 7. Speicherdauer
+
+- Serverkonfigurationen werden gespeichert, solange der Bot auf dem Server installiert ist.
+- Moderationsdaten werden maximal **90 Tage** gespeichert.
+- Temporäre Sicherheitsdaten werden in der Regel innerhalb von **24 Stunden** gelöscht.
+
+Beim Entfernen des Bots aus einem Server werden alle serverbezogenen Daten innerhalb von **30 Tagen** gelöscht.
+
+---
+
+# 8. Datenweitergabe
+
+Es erfolgt **keine Weitergabe personenbezogener Daten an Dritte**.
+
+Zugriff auf gespeicherte Daten haben ausschließlich die Bot-Entwickler, soweit dies zur Wartung, Fehlerbehebung oder zur Gewährleistung der Sicherheit erforderlich ist.
+
+---
+
+# 9. Rechte der Nutzer
+
+Nutzer haben nach der DSGVO folgende Rechte:
+
+- Recht auf Auskunft über gespeicherte Daten
+- Recht auf Berichtigung unrichtiger Daten
+- Recht auf Löschung gespeicherter Daten
+- Recht auf Einschränkung der Verarbeitung
+- Recht auf Datenübertragbarkeit
+- Recht auf Widerspruch gegen die Verarbeitung
+
+Anfragen können über den Support-Server gestellt werden.
+
+---
+
+# 10. Beschwerderecht
+
+Betroffene haben das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren.
+
+Zuständige Aufsichtsbehörde in Bayern ist beispielsweise:
+
+Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)  
+https://www.lda.bayern.de
+
+---
+
+# 11. Datensicherheit
+
+Es werden technische und organisatorische Maßnahmen eingesetzt, um gespeicherte Daten vor Verlust, Missbrauch oder unbefugtem Zugriff zu schützen.
+
+---
+
+# 12. Änderungen dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung kann aktualisiert werden, um Änderungen am Bot oder rechtliche Anforderungen zu berücksichtigen.
+
+Die jeweils aktuelle Version wird öffentlich bereitgestellt.
