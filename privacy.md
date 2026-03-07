@@ -29,22 +29,24 @@ https://discord.com/privacy
 
 ## 3.1 Serverbezogene Daten
 
-- Server-ID
-- Channel-IDs für Logs oder Konfiguration
-- Rollen-IDs für Moderation oder Sicherheitsfunktionen
-- Serverbezogene Bot-Konfigurationen
+- Server-ID  
+- Channel-IDs für Logs oder Konfiguration  
+- Rollen-IDs für Moderation oder Sicherheitsfunktionen  
+- Serverbezogene Bot-Konfigurationen  
 - Einladungslink zum Server, falls der Server zu den größten Servern gehört, auf denen der Bot installiert ist
 
 ## 3.2 Moderationsbezogene Daten
 
-- Nutzer-ID von betroffenen Nutzern
-- Zeitstempel von Moderationsaktionen
-- Moderationsgrund (falls vom Administrator angegeben)
+- Nutzer-ID von betroffenen Nutzern  
+- Zeitstempel von Moderationsaktionen  
+- Moderationsgrund (falls vom Administrator angegeben)  
+
+> **Hinweis:** Moderationsdaten werden standardmäßig gespeichert, bis sie manuell gelöscht werden oder der Bot den Server verlässt.
 
 ## 3.3 Temporäre Sicherheitsdaten
 
-- Temporäre Daten zur Erkennung von Spam, Raid oder Missbrauch
-- Diese Daten werden automatisch nach kurzer Zeit gelöscht
+- Daten zur Erkennung von Spam, Raid oder Missbrauch  
+- Werden automatisch innerhalb von 24 Stunden gelöscht
 
 ---
 
@@ -52,11 +54,11 @@ https://discord.com/privacy
 
 Der Bot speichert **keine**:
 
-- Nachrichteninhalte
-- Direktnachrichten
-- E-Mail-Adressen
-- Passwörter
-- Zahlungsinformationen
+- Nachrichteninhalte  
+- Direktnachrichten  
+- E-Mail-Adressen  
+- Passwörter  
+- Zahlungsinformationen  
 - personenbezogenen Profilinformationen
 
 ---
@@ -65,9 +67,9 @@ Der Bot speichert **keine**:
 
 Die Daten werden verarbeitet, um:
 
-- Schutz vor Spam, Raids und Missbrauch zu ermöglichen
-- automatische Moderationsfunktionen bereitzustellen
-- Serveradministratoren Moderationslogs bereitzustellen
+- Schutz vor Spam, Raids und Missbrauch zu ermöglichen  
+- automatische Moderationsfunktionen bereitzustellen  
+- Serveradministratoren Moderationslogs bereitzustellen  
 - serverbezogene Bot-Konfigurationen zu speichern
 
 ---
@@ -75,7 +77,7 @@ Die Daten werden verarbeitet, um:
 # 6. Rechtsgrundlage der Verarbeitung
 
 Die Verarbeitung der Daten erfolgt auf Grundlage von  
-**Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse)**.
+**Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse)**.  
 
 Das berechtigte Interesse besteht darin, Moderations- und Sicherheitsfunktionen für Discord-Server bereitzustellen.
 
@@ -83,17 +85,16 @@ Das berechtigte Interesse besteht darin, Moderations- und Sicherheitsfunktionen 
 
 # 7. Speicherdauer
 
-- Serverkonfigurationen werden gespeichert, solange der Bot auf dem Server installiert ist.
-- Moderationsdaten werden maximal **90 Tage** gespeichert.
-- Temporäre Sicherheitsdaten werden in der Regel innerhalb von **24 Stunden** gelöscht.
-
-Beim Entfernen des Bots aus einem Server werden alle serverbezogenen Daten innerhalb von **30 Tagen** gelöscht.
+- Serverkonfigurationen: solange der Bot auf dem Server installiert ist  
+- Moderationsdaten: solange der Bot auf dem Server ist, es sei denn, sie werden manuell gelöscht  
+- Temporäre Sicherheitsdaten: innerhalb von 24 Stunden gelöscht  
+- Beim Entfernen des Bots aus einem Server: alle serverbezogenen Daten innerhalb von 30 Tagen gelöscht
 
 ---
 
 # 8. Datenweitergabe
 
-Es erfolgt **keine Weitergabe personenbezogener Daten an Dritte**.
+Es erfolgt **keine Weitergabe personenbezogener Daten an Dritte**.  
 
 Zugriff auf gespeicherte Daten haben ausschließlich die Bot-Entwickler, soweit dies zur Wartung, Fehlerbehebung oder zur Gewährleistung der Sicherheit erforderlich ist.
 
@@ -103,12 +104,12 @@ Zugriff auf gespeicherte Daten haben ausschließlich die Bot-Entwickler, soweit 
 
 Nutzer haben nach der DSGVO folgende Rechte:
 
-- Recht auf Auskunft über gespeicherte Daten
-- Recht auf Berichtigung unrichtiger Daten
-- Recht auf Löschung gespeicherter Daten
-- Recht auf Einschränkung der Verarbeitung
-- Recht auf Datenübertragbarkeit
-- Recht auf Widerspruch gegen die Verarbeitung
+- Recht auf Auskunft über gespeicherte Daten  
+- Recht auf Berichtigung unrichtiger Daten  
+- Recht auf Löschung gespeicherter Daten  
+- Recht auf Einschränkung der Verarbeitung  
+- Recht auf Datenübertragbarkeit  
+- Recht auf Widerspruch gegen die Verarbeitung  
 
 Anfragen können über den Support-Server gestellt werden.
 
@@ -118,9 +119,9 @@ Anfragen können über den Support-Server gestellt werden.
 
 Betroffene haben das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren.
 
-Zuständige Aufsichtsbehörde in Bayern ist beispielsweise:
+Zuständige Aufsichtsbehörde in Bayern ist:  
 
-Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)  
+**Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)**  
 https://www.lda.bayern.de
 
 ---
@@ -133,6 +134,5 @@ Es werden technische und organisatorische Maßnahmen eingesetzt, um gespeicherte
 
 # 12. Änderungen dieser Datenschutzerklärung
 
-Diese Datenschutzerklärung kann aktualisiert werden, um Änderungen am Bot oder rechtliche Anforderungen zu berücksichtigen.
-
+Diese Datenschutzerklärung kann aktualisiert werden, um Änderungen am Bot oder rechtliche Anforderungen zu berücksichtigen.  
 Die jeweils aktuelle Version wird öffentlich bereitgestellt.
