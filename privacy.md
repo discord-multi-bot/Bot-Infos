@@ -1,138 +1,69 @@
-# Privacy Policy – Server Defender Bot
+# Privacy Policy
 
-*Last updated: 07.03.2026*
+Last updated: 09 March 2026
 
-Der Schutz personenbezogener Daten ist uns wichtig. Diese Datenschutzerklärung erklärt, welche Daten der **Server Defender Bot** verarbeitet, zu welchem Zweck dies geschieht und welche Rechte Nutzer haben.
+## 1. Introduction
 
----
+This Privacy Policy explains how the Discord bot ("the Bot") collects, uses, and stores information when used on Discord servers.
 
-# 1. Verantwortlicher
+By using the Bot, you agree to the collection and use of information in accordance with this policy.
 
-Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO):
+## 2. Data We Collect
 
-Max  
-Kontakt über den offiziellen Support-Server:  
-https://discord.gg/Ef9xBHFt6p
+The Bot may collect and store the following data when necessary for functionality:
 
----
+- Discord User IDs
+- Discord Server IDs
+- Channel IDs
+- Message IDs
+- Bot configuration data
+- Moderation or feature related data (if applicable)
 
-# 2. Datenquelle
+The Bot does **not collect personal information such as email addresses, passwords, or private Discord account data.**
 
-Der Bot verarbeitet ausschließlich Daten, die über die API von Discord Inc. bereitgestellt werden.
+## 3. Purpose of Data Collection
 
-Weitere Informationen zur Datenverarbeitung durch Discord sind in der Datenschutzerklärung von Discord verfügbar:  
+Data is collected strictly for the following purposes:
+
+- Providing bot functionality
+- Storing server configuration
+- Enabling bot features
+- Preventing abuse or misuse
+- Maintaining bot stability
+
+## 4. Data Storage
+
+Data may be stored in databases or files controlled by the Bot operator.
+
+Data is only stored for as long as necessary to provide the bot's functionality.
+
+## 5. Data Sharing
+
+The Bot does **not sell, trade, or share data with third parties**, except when required by law.
+
+Discord itself may process data according to their own privacy policy.
+
+Discord Privacy Policy:
 https://discord.com/privacy
 
----
+## 6. Data Deletion
 
-# 3. Welche Daten verarbeitet werden
+Server administrators may request deletion of stored server data.
 
-## 3.1 Serverbezogene Daten
+Data may also be automatically deleted if:
+- The bot is removed from a server
+- The feature requiring the data is disabled
 
-- Server-ID  
-- Channel-IDs für Logs oder Konfiguration  
-- Rollen-IDs für Moderation oder Sicherheitsfunktionen  
-- Serverbezogene Bot-Konfigurationen  
-- Einladungslink zum Server, falls der Server zu den größten Servern gehört, auf denen der Bot installiert ist
+To request deletion, contact the bot developer.
 
-## 3.2 Moderationsbezogene Daten
+## 7. Security
 
-- Nutzer-ID von betroffenen Nutzern  
-- Zeitstempel von Moderationsaktionen  
-- Moderationsgrund (falls vom Administrator angegeben)  
+Reasonable technical measures are taken to protect stored data. However, no system can guarantee absolute security.
 
-> **Hinweis:** Moderationsdaten werden standardmäßig gespeichert, bis sie manuell gelöscht werden oder der Bot den Server verlässt.
+## 8. Changes to This Policy
 
-## 3.3 Temporäre Sicherheitsdaten
+This Privacy Policy may be updated at any time. Continued use of the Bot after changes means you accept the updated policy.
 
-- Daten zur Erkennung von Spam, Raid oder Missbrauch  
-- Werden automatisch innerhalb von 24 Stunden gelöscht
+## 9. Contact
 
----
-
-# 4. Welche Daten **nicht** gespeichert werden
-
-Der Bot speichert **keine**:
-
-- Nachrichteninhalte  
-- Direktnachrichten  
-- E-Mail-Adressen  
-- Passwörter  
-- Zahlungsinformationen  
-- personenbezogenen Profilinformationen
-
----
-
-# 5. Zweck der Verarbeitung
-
-Die Daten werden verarbeitet, um:
-
-- Schutz vor Spam, Raids und Missbrauch zu ermöglichen  
-- automatische Moderationsfunktionen bereitzustellen  
-- Serveradministratoren Moderationslogs bereitzustellen  
-- serverbezogene Bot-Konfigurationen zu speichern
-
----
-
-# 6. Rechtsgrundlage der Verarbeitung
-
-Die Verarbeitung der Daten erfolgt auf Grundlage von  
-**Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse)**.  
-
-Das berechtigte Interesse besteht darin, Moderations- und Sicherheitsfunktionen für Discord-Server bereitzustellen.
-
----
-
-# 7. Speicherdauer
-
-- Serverkonfigurationen: solange der Bot auf dem Server installiert ist  
-- Moderationsdaten: solange der Bot auf dem Server ist, es sei denn, sie werden manuell gelöscht  
-- Temporäre Sicherheitsdaten: innerhalb von 24 Stunden gelöscht  
-- Beim Entfernen des Bots aus einem Server: alle serverbezogenen Daten innerhalb von 30 Tagen gelöscht
-
----
-
-# 8. Datenweitergabe
-
-Es erfolgt **keine Weitergabe personenbezogener Daten an Dritte**.  
-
-Zugriff auf gespeicherte Daten haben ausschließlich die Bot-Entwickler, soweit dies zur Wartung, Fehlerbehebung oder zur Gewährleistung der Sicherheit erforderlich ist.
-
----
-
-# 9. Rechte der Nutzer
-
-Nutzer haben nach der DSGVO folgende Rechte:
-
-- Recht auf Auskunft über gespeicherte Daten  
-- Recht auf Berichtigung unrichtiger Daten  
-- Recht auf Löschung gespeicherter Daten  
-- Recht auf Einschränkung der Verarbeitung  
-- Recht auf Datenübertragbarkeit  
-- Recht auf Widerspruch gegen die Verarbeitung  
-
-Anfragen können über den Support-Server gestellt werden.
-
----
-
-# 10. Beschwerderecht
-
-Betroffene haben das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren.
-
-Zuständige Aufsichtsbehörde in Bayern ist:  
-
-**Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)**  
-https://www.lda.bayern.de
-
----
-
-# 11. Datensicherheit
-
-Es werden technische und organisatorische Maßnahmen eingesetzt, um gespeicherte Daten vor Verlust, Missbrauch oder unbefugtem Zugriff zu schützen.
-
----
-
-# 12. Änderungen dieser Datenschutzerklärung
-
-Diese Datenschutzerklärung kann aktualisiert werden, um Änderungen am Bot oder rechtliche Anforderungen zu berücksichtigen.  
-Die jeweils aktuelle Version wird öffentlich bereitgestellt.
+If you have questions regarding this Privacy Policy, contact the bot developer through the official support channel or repository.
