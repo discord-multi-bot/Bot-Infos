@@ -1,0 +1,9 @@
+[book]
+authors = ["Max"]
+language = "de"
+multilingual = false
+title = "Multi Bot docs"
+
+[output.html]
+# Default build path, matched by your GitHub Actions workflow
+destination = "book"
